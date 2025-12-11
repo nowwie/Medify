@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 **Modify**
+# 📱 **Medify**
 
 ### *Android application built with Kotlin & Jetpack Compose.*
 
